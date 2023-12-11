@@ -1,0 +1,4 @@
+* Programming Puzzles in Python
+Mostly leetcode for now.
+
+Filename of the format =lc_N= are leetcode problems where =N= is the problem number.
